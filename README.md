@@ -1,6 +1,4 @@
-Sure, here's an example README.md file you could use to explain how to run your Tauri Tic-Tac-Toe game app on GitHub:
-
-# Tauri Tic-Tac-Toe Game App
+# Teec-Tac-Toe 
 
 This is a Tic-Tac-Toe game app built with Tauri, a framework for building native desktop applications using web technologies.
 
